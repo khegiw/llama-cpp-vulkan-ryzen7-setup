@@ -1,9 +1,3 @@
-# DevOps Projects
-
-Personal infrastructure and automation workspace.
-
----
-
 ## llama-server: Local AI Inference Server
 
 **Running Qwen3-Coder-30B locally with Vulkan GPU acceleration**
