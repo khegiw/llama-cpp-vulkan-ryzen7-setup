@@ -1,0 +1,41 @@
+# Logs
+*.log
+deployment.log
+
+# Models (too large for git)
+*.gguf
+models/
+
+# Build artifacts
+llama.cpp/
+build/
+
+# Backups
+backups/
+
+# Sensitive data
+.htpasswd
+*.pem
+*.key
+*.crt
+credentials.json
+
+# Cloudflare credentials
+.cloudflared/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+.claude/
