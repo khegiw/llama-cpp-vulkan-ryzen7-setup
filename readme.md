@@ -50,12 +50,3 @@ journalctl -u llama-server -f
 
 ---
 
-## Other Tools
-
-- `.bmad-*` - Infrastructure automation tools
-- `.claude/` - Claude Code configurations
-- `AGENTS.md` - Agent setup docs
-
----
-
-**Last Updated**: 2025-11-26
